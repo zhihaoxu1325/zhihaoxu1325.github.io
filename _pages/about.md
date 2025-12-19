@@ -87,9 +87,21 @@ redirect_from:
 
   <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q2)</span>
 
-- <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforce Learning**
+- <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
 
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Hui Zeng, Qian Ma, Hui Li, Xiaochen Li, He Jiang.</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Hui Zeng, Qian Ma, Hui Li.</span>
+
+  <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
+
+- <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
+
+  <span style="font-size:15px;"> Jiaxin Li, Shikai Guo\*, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
+
+  <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
+
+- <span class="badge">DAC'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
+
+  <span style="font-size:15px;"> Xinlong Zhang, Shikai Guo\*, Zihan Liang, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
 
   <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
 
