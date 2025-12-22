@@ -50,7 +50,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Xiaochen Li, Peiyu Zou, He Jiang.</span>
 
-  <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q2)</span>
+  <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
   [[paper](https://arxiv.org/abs/2407.12037)]
   [[code](https://github.com/cemery123/legohdl)]
@@ -85,7 +85,7 @@ redirect_from:
 
   <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q2)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
 - <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
 
