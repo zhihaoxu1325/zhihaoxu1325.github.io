@@ -17,6 +17,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
 - *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Prof. Du
 - *2025.05*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
 - *2025.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
@@ -34,6 +35,18 @@ redirect_from:
 
   [[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
   [[code](https://github.com/cemery123/COMBAT)]
+
+- <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
+
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Hui Zeng, Qian Ma, Hui Li.</span>
+
+  <span style="font-size:15px;"> *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
+
+- <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
+
+  <span style="font-size:15px;"> Jiaxin Li, Shikai Guo\*, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
+
+  <span style="font-size:15px;"> *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
 
 ## Journal
 
@@ -86,18 +99,6 @@ redirect_from:
   <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
 
   <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
-
-- <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
-
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Hui Zeng, Qian Ma, Hui Li.</span>
-
-  <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
-
-- <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
-
-  <span style="font-size:15px;"> Jiaxin Li, Shikai Guo\*, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
-
-  <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
 
 - <span class="badge">DAC'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
 
