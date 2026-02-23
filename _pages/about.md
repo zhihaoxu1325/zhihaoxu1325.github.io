@@ -40,13 +40,13 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Hui Zeng, Qian Ma, Hui Li.</span>
 
-  <span style="font-size:15px;"> *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 63rd ACM/IEEE The Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
 - <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
 
   <span style="font-size:15px;"> Jiaxin Li, Shikai Guo\*, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 63rd ACM/IEEE The Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
 ## Journal
 
