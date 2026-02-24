@@ -17,7 +17,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
+- *2026.02*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
 - *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Prof. Du
 - *2025.05*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
 - *2025.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
