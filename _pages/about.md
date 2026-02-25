@@ -11,14 +11,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📖 Zhihao Xu is a Ph.D. candidate of Computer Science in Southeast University(<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University(<a href='https://www.monash.edu/'>Monash</a>). His supervisors are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Prof. Xiaoning Du</a>. Before joining SEU and Monash, he received his Master degree of Computer Science in Dalian Maritime University(DLMU) co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof.Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof He Jiang</a>.
+📖 Zhihao Xu is a Ph.D. candidate of Computer Science in Southeast University(<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University(<a href='https://www.monash.edu/'>Monash</a>). His supervisors are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Dr. Xiaoning Du</a>. Before joining SEU and Monash, he received his Master degree of Computer Science in Dalian Maritime University(DLMU) co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof.Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof He Jiang</a>.
 
 🔍 My research includes Software Engineering(SE), Electronic Design  Automation(EDA) and Open-Source System Instruction Set Architecture(RISC-V). I hope to explore how to use AI technology to improve the efficiency and accuracy of software testing, especially in embedded systems with limited hardware resources.
 
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
-- *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Prof. Du
+- *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Dr. Du
 - *2025.05*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
 - *2025.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by **TODAES**!
