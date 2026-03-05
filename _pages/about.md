@@ -94,17 +94,17 @@ redirect_from:
 
   <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
-- <span class="badge">TCAD'25</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
+- <span class="badge">ISSTA'25</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
 
   <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis *, 2026. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
-- <span class="badge">DAC'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
+- <span class="badge">TACO'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
 
   <span style="font-size:15px;"> Xinlong Zhang, Shikai Guo\*, Zihan Liang, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Architecture and Code Optimization*, 2026. (<span style="color:red">CCF-A</span>)</span>
 
 
 
