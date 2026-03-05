@@ -98,7 +98,7 @@ redirect_from:
 
   <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis *, 2026. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
 - <span class="badge">TACO'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
 
