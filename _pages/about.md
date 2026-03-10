@@ -34,7 +34,7 @@ redirect_from:
   <span style="font-size:15px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, April 2022.(<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
-  [[code](https://github.com/cemery123/COMBAT)]
+  💻[[code](https://github.com/cemery123/COMBAT)]
 
 - <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
 
