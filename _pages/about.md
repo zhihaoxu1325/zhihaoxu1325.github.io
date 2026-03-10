@@ -33,7 +33,7 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, April 2022.(<span style="color:red">CCF-A</span>)</span>
 
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
+  📄[[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
   [[code](https://github.com/cemery123/COMBAT)]
 
 - <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
@@ -42,7 +42,7 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
-  [[paper]](docs/RL4HDL_camera_ready.pdf)
+  📄[[paper]](docs/RL4HDL_camera_ready.pdf)
 
 - <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
 
@@ -50,7 +50,7 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
-  [[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
+  📄[[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
 
 ## Journal
 
@@ -60,8 +60,8 @@ redirect_from:
 
   <span style="font-size:15px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q1)</span>
 
-  [[paper](https://dl.acm.org/doi/10.1145/3705730)]
-  [[code](https://github.com/cemery123/SIMTAM)]
+  📄[[paper](https://dl.acm.org/doi/10.1145/3705730)]
+  💻[[code](https://github.com/cemery123/SIMTAM)]
 
 - <span class="badge">TCAD'25</span> &nbsp;**A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
 
@@ -69,8 +69,8 @@ redirect_from:
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
-  [[paper](https://arxiv.org/abs/2407.12037)]
-  [[code](https://github.com/cemery123/legohdl)]
+  📄[[paper](https://arxiv.org/abs/2407.12037)]
+  💻[[code](https://github.com/cemery123/legohdl)]
 
 - <span class="badge">SPE'23</span> &nbsp;**Feature transfer learning by reinforcement learning for detecting software defect**
 
