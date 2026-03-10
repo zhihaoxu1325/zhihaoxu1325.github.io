@@ -42,11 +42,15 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
+  [[paper]](docs/RL4HDL_camera_ready.pdf)
+
 - <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
 
   <span style="font-size:15px;"> Jiaxin Li, Shikai Guo\*, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
 
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
+
+  [[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
 
 ## Journal
 
