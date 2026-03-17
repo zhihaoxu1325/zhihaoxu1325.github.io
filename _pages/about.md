@@ -38,7 +38,7 @@ redirect_from:
 
 - <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
 
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo (*) , Hui Zeng, Qian Ma, Hui Li.</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Hui Zeng, Qian Ma, Hui Li, Furui Zhan, Shikai Guo (*).</span>
 
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
