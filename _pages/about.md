@@ -119,7 +119,7 @@ redirect_from:
 - *2025.05* Chinese Scholarship Council full award in Monash.
 
 # 📖 Educations
-- *2024.09 - 2025.06 (now)*, Ph.D candidate, Southeast Uinversity, Nanjing. 
+- *2024.09 - Now*, Ph.D candidate, Southeast Uinversity, Nanjing. 
 - *2021.09 - 2024.06*, Postgraduate, Dalian Maritime University, Dalian.
 
 # 🧱 Utility Model Patents
