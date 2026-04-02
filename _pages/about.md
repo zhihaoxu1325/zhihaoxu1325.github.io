@@ -17,6 +17,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2026.02*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
 - *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Dr. Du
 - *2025.05*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
@@ -84,13 +85,13 @@ redirect_from:
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
-## Under Review
+- <span class="badge">TCAD'26</span> &nbsp;**Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers**
 
-- <span class="badge">TCAD'25</span> &nbsp;**Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers**
-
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao,  Peiyu Zou, Xiaochen Li, He Jiang</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Siwen Wang, Qian Ma, Hui Li, Furui Zhan</span>
 
   <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
+
+## Under Review
 
 - <span class="badge">TRETS'25</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
 
