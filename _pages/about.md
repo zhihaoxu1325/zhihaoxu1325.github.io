@@ -17,6 +17,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by **ICSME'26**! Congratulations to Yuxiao!
 - *2026.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2026.02*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
 - *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Dr. Du
@@ -52,6 +53,15 @@ redirect_from:
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
+
+- <span class="badge">ICSME'26</span> &nbsp;**Detecting Error Diagnostic Defects in C Compiler via Invalid Program Mutations**
+  
+  <span style="font-size:15px;"> Yuxiao Peng, Bixin Li\*, <strong><em>Zhihao Xu\*</em></strong>, Lulu Wang, Li Liao, Ying Zhou .</span>
+
+  <span style="font-size:15px;"> *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Sep 2026. (<span style="color:blue">CCF-B</span>)</span>
+
+  📄[[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
+
 
 ## Journal
 
