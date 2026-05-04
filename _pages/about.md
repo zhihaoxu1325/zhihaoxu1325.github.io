@@ -60,7 +60,7 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Sep 2026. (<span style="color:blue">CCF-B</span>)</span>
 
-  📄[[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
+  📄[[paper]](docs/ICSME_2026_paper_7833.pdf)
 
 
 ## Journal
