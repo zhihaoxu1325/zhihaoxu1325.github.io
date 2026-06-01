@@ -17,7 +17,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 I was selected as a gold reviewer for ICML 2026. See you in Seoul!
+- *2026.05*: &nbsp;🎉🎉 I was selected as a gold reviewer for **ICML' 2026**. See you in Seoul!
 - *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by **ICSME'26**! Congratulations to Yuxiao!
 - *2026.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2026.02*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
