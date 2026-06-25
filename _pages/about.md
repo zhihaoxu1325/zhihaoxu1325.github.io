@@ -63,6 +63,12 @@ redirect_from:
 
   📄[[paper]](docs/ICSME_2026_paper_7833.pdf)
 
+- <span class="badge">ISSTA'26</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
+
+  <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
+
+  <span style="font-size:15px;"> In *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026. (<span style="color:red">CCF-A</span>)</span>
+
 
 ## Journal
 
@@ -109,12 +115,6 @@ redirect_from:
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Ran Yan, Lulu Wang.</span>
 
   <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
-
-- <span class="badge">ISSTA'25</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
-
-  <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
-
-  <span style="font-size:15px;"> Manuscript submitted to *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
 - <span class="badge">TACO'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
 
