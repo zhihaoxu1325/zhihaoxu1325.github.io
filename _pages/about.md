@@ -61,7 +61,7 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Sep 2026. (<span style="color:blue">CCF-B</span>)</span>
 
-  📄[[paper]](docs/ICSME_2026_paper_7833.pdf)
+  📄[[paper]](docs/EIDETIC_ICSME.pdf)
 
 - <span class="badge">ISSTA'26</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
 
