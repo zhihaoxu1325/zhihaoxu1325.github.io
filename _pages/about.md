@@ -108,13 +108,13 @@ redirect_from:
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
-## Under Review
-
-- <span class="badge">TRETS'25</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
+- <span class="badge">TRETS'26</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Ran Yan, Lulu Wang.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
+  <span style="font-size:15px;"> In *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
+
+## Under Review
 
 - <span class="badge">TACO'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
 
