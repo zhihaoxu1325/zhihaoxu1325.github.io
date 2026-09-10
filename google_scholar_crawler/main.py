@@ -23,13 +23,25 @@ def fetch_author(scholar_id, scholarly_client=None, updated_at=None):
     return author
 
 
-def write_results(author, output_directory):
+def write_results(author, output_directory, expected_scholar_id=None):
     citedby = author.get('citedby')
     publications = author.get('publications')
+    if expected_scholar_id and author.get('scholar_id') != expected_scholar_id:
+        raise ValueError('citation data belongs to an unexpected scholar profile')
     if isinstance(citedby, bool) or not isinstance(citedby, int) or citedby < 0:
         raise ValueError('citation data must contain a non-negative integer citedby')
-    if not isinstance(publications, dict):
-        raise ValueError('citation data must contain a publications mapping')
+    if not isinstance(publications, dict) or not publications:
+        raise ValueError('citation data must contain at least one publication')
+    for publication_id, publication in publications.items():
+        publication_citations = publication.get('num_citations')
+        if publication.get('author_pub_id') != publication_id:
+            raise ValueError('publication key does not match author_pub_id')
+        if (
+            isinstance(publication_citations, bool)
+            or not isinstance(publication_citations, int)
+            or publication_citations < 0
+        ):
+            raise ValueError('publication citation counts must be non-negative integers')
 
     output_directory = Path(output_directory)
     output_directory.mkdir(parents=True, exist_ok=True)
@@ -41,12 +53,24 @@ def write_results(author, output_directory):
             'message': str(citedby),
         },
     }
-    for filename, payload in outputs.items():
-        destination = output_directory / filename
-        temporary = output_directory / f'.{filename}.tmp'
-        with temporary.open('w', encoding='utf-8') as output_file:
-            json.dump(payload, output_file, ensure_ascii=False)
-        os.replace(temporary, destination)
+    serialized_outputs = {
+        filename: json.dumps(payload, ensure_ascii=False)
+        for filename, payload in outputs.items()
+    }
+    temporary_paths = []
+    try:
+        for filename, contents in serialized_outputs.items():
+            temporary = output_directory / f'.{filename}.tmp'
+            temporary.write_text(contents, encoding='utf-8')
+            temporary_paths.append(temporary)
+        for filename in serialized_outputs:
+            os.replace(
+                output_directory / f'.{filename}.tmp',
+                output_directory / filename,
+            )
+    finally:
+        for temporary in temporary_paths:
+            temporary.unlink(missing_ok=True)
 
 
 def main():
@@ -59,7 +83,7 @@ def main():
         'CITATION_OUTPUT_DIR',
         Path(__file__).resolve().parent / 'results',
     )
-    write_results(author, output_directory)
+    write_results(author, output_directory, expected_scholar_id=scholar_id)
     print(
         f"Wrote {len(author['publications'])} publications and "
         f"{author['citedby']} total citations."

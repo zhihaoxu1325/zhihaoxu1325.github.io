@@ -22,6 +22,36 @@ class _NetworkTrap:
         raise AssertionError("importing the crawler must not access Google Scholar")
 
 
+class _FakeScholarly:
+    def __init__(self):
+        self.timeout = None
+        self.retries = None
+        self.sections = None
+
+    def set_timeout(self, timeout):
+        self.timeout = timeout
+
+    def set_retries(self, retries):
+        self.retries = retries
+
+    def search_author_id(self, scholar_id):
+        return {
+            "scholar_id": scholar_id,
+            "name": "Example Researcher",
+            "citedby": 12,
+            "publications": [
+                {
+                    "author_pub_id": f"{scholar_id}:paper-one",
+                    "num_citations": 7,
+                    "bib": {"title": "A Useful Paper"},
+                }
+            ],
+        }
+
+    def fill(self, _author, sections):
+        self.sections = sections
+
+
 def load_crawler():
     fake_scholarly = types.ModuleType("scholarly")
     fake_scholarly.scholarly = _NetworkTrap()
@@ -55,18 +85,53 @@ class DependencyCompatibilityTests(unittest.TestCase):
         self.assertTrue(callable(scholarly.search_author_id))
 
 
+class CitationFetchTests(unittest.TestCase):
+    def test_fetch_is_bounded_and_normalizes_publications(self):
+        crawler = load_crawler()
+        scholarly_client = _FakeScholarly()
+
+        author = crawler.fetch_author(
+            "test-author",
+            scholarly_client=scholarly_client,
+            updated_at="2026-09-10T12:00:00+00:00",
+        )
+
+        self.assertEqual(scholarly_client.timeout, 10)
+        self.assertEqual(scholarly_client.retries, 2)
+        self.assertEqual(
+            scholarly_client.sections,
+            ["basics", "indices", "counts", "publications"],
+        )
+        self.assertEqual(author["updated"], "2026-09-10T12:00:00+00:00")
+        self.assertEqual(
+            list(author["publications"]),
+            ["test-author:paper-one"],
+        )
+
+
 class ResultWritingTests(unittest.TestCase):
     def test_write_results_emits_frontend_and_badge_json(self):
         crawler = load_crawler()
         author = {
+            "scholar_id": "test-author",
             "name": "Example Researcher",
             "citedby": 12,
-            "publications": {},
+            "publications": {
+                "test-author:paper-one": {
+                    "author_pub_id": "test-author:paper-one",
+                    "num_citations": 7,
+                    "bib": {"title": "A Useful Paper"},
+                }
+            },
         }
 
         with tempfile.TemporaryDirectory() as temporary_directory:
             output_directory = Path(temporary_directory) / "results"
-            crawler.write_results(author, output_directory)
+            crawler.write_results(
+                author,
+                output_directory,
+                expected_scholar_id="test-author",
+            )
 
             with (output_directory / "gs_data.json").open() as input_file:
                 self.assertEqual(json.load(input_file), author)
@@ -86,7 +151,44 @@ class ResultWritingTests(unittest.TestCase):
             data_path.write_text('{"citedby": 11}', encoding="utf-8")
 
             with self.assertRaises(ValueError):
-                crawler.write_results({"publications": {}}, output_directory)
+                crawler.write_results(
+                    {
+                        "scholar_id": "test-author",
+                        "citedby": 12,
+                        "publications": {},
+                    },
+                    output_directory,
+                    expected_scholar_id="test-author",
+                )
+
+            self.assertEqual(data_path.read_text(encoding="utf-8"), '{"citedby": 11}')
+
+    def test_wrong_profile_does_not_overwrite_last_known_good_results(self):
+        crawler = load_crawler()
+        author = {
+            "scholar_id": "wrong-author",
+            "citedby": 12,
+            "publications": {
+                "wrong-author:paper-one": {
+                    "author_pub_id": "wrong-author:paper-one",
+                    "num_citations": 7,
+                    "bib": {"title": "A Useful Paper"},
+                }
+            },
+        }
+
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            output_directory = Path(temporary_directory) / "results"
+            output_directory.mkdir()
+            data_path = output_directory / "gs_data.json"
+            data_path.write_text('{"citedby": 11}', encoding="utf-8")
+
+            with self.assertRaises(ValueError):
+                crawler.write_results(
+                    author,
+                    output_directory,
+                    expected_scholar_id="test-author",
+                )
 
             self.assertEqual(data_path.read_text(encoding="utf-8"), '{"citedby": 11}')
 
