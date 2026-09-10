@@ -15,6 +15,8 @@ redirect_from:
 
 🔍 My research includes Software Engineering(SE), Electronic Design  Automation(EDA) and Open-Source System Instruction Set Architecture(RISC-V). I hope to explore how to use AI technology to improve the efficiency and accuracy of software testing, especially in embedded systems with limited hardware resources.
 
+📈 Google Scholar Citations: [**<span id="total_cit" aria-live="polite">—</span>**]({{ site.author.googlescholar }})
+
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Our paper has been accepted by **TRETS**!
@@ -39,6 +41,7 @@ redirect_from:
 
   📄[[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
   💻[[code](https://github.com/cemery123/COMBAT)]
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:9yKSN-GCB0IC" hidden></span>
 
 - <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning**
 
@@ -47,6 +50,7 @@ redirect_from:
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper]](docs/RL4HDL_camera_ready.pdf)
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:eQOLeE2rZwMC" hidden></span>
 
 - <span class="badge">DAC'26</span> &nbsp;**Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools**
 
@@ -55,6 +59,7 @@ redirect_from:
   <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:WF5omc3nYNoC" hidden></span>
 
 - <span class="badge">ICSME'26</span> &nbsp;**Detecting Error Diagnostic Defects in C Compiler via Invalid Program Mutations**
   
@@ -63,6 +68,7 @@ redirect_from:
   <span style="font-size:15px;"> *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Sep 2026. (<span style="color:blue">CCF-B</span>)</span>
 
   📄[[paper]](docs/EIDETIC_ICSME.pdf)
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:ufrVoPGSRksC" hidden></span>
 
 - <span class="badge">ISSTA'26</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
 
@@ -81,6 +87,7 @@ redirect_from:
 
   📄[[paper](https://dl.acm.org/doi/10.1145/3705730)]
   💻[[code](https://github.com/cemery123/SIMTAM)]
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:d1gkVwhDpl0C" hidden></span>
 
 - <span class="badge">TCAD'25</span> &nbsp;**A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
 
@@ -90,6 +97,7 @@ redirect_from:
 
   📄[[paper](https://arxiv.org/abs/2407.12037)]
   💻[[code](https://github.com/cemery123/legohdl)]
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:qjMakFHDy7sC" hidden></span>
 
 - <span class="badge">SPE'23</span> &nbsp;**Feature transfer learning by reinforcement learning for detecting software defect**
 
@@ -97,11 +105,15 @@ redirect_from:
 
   <span style="font-size:15px;"> In *Software: Practice and Experience*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:u5HHmVD_uO8C" hidden></span>
+
 - <span class="badge">TCAD'25</span> &nbsp;**TRAGIC: Test Oracle Generation for ISA Compliance Testing via Large Language Model**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Xiaoning Du, Lulu Wang, Li Liao, Ying Zhou.</span>
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
+
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:YsMSGLbcyi4C" hidden></span>
 
 - <span class="badge">TCAD'26</span> &nbsp;**Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers**
 
@@ -109,11 +121,15 @@ redirect_from:
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:W7OEmFMy1HYC" hidden></span>
+
 - <span class="badge">TRETS'26</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Ran Yan, Lulu Wang, Yongqiang Tian.</span>
 
   <span style="font-size:15px;"> In *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
+
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:zYLM7Y9cAGgC" hidden></span>
 
 ## Under Review
 

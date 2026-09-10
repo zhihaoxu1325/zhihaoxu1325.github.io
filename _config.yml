@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Zhihao Xu"
 description              : "Ph.d. Student at Southeast University"
-repository               : "cemery123/cemery.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "zhihaoxu1325/zhihaoxu1325.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
