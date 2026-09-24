@@ -19,6 +19,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper has been accepted by **NeurIPS'26**!
 - *2026.08*: &nbsp;🎉🎉 Our paper has been accepted by **TRETS**!
 - *2026.05*: &nbsp;🎉🎉 I was selected as gold reviewer for **ICML' 2026**. See you in Seoul!
 - *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by **ICSME'26**! Congratulations to Yuxiao!
@@ -32,6 +33,12 @@ redirect_from:
 # 📝 Publications 
 
 ## Conference
+
+- <span class="badge">NeurIPS'26</span> &nbsp;**VALOR: Vector-Aware Low-Rank Restructuring of Neural Networks for RISC-V Inference**
+
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Xiaoning Du, Bixin Li, Lulu Wang, Li Liao, Ying Zhou.</span>
+
+  <span style="font-size:15px;"> *The 40th Annual Conference on Neural Information Processing Systems*, 2026. (<span style="color:red">CCF-A</span>)</span>
 
 - <span class="badge">FSE'22</span> &nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
