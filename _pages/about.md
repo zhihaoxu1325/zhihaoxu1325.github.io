@@ -34,12 +34,6 @@ redirect_from:
 
 ## Conference
 
-- <span class="badge">NeurIPS'26</span> &nbsp;**VALOR: Vector-Aware Low-Rank Restructuring of Neural Networks for RISC-V Inference**
-
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Xiaoning Du, Bixin Li, Lulu Wang, Li Liao, Ying Zhou.</span>
-
-  <span style="font-size:15px;"> *The 40th Annual Conference on Neural Information Processing Systems*, Sydney, December 2026. (<span style="color:red">CCF-A</span>)</span>
-
 - <span class="badge">FSE'22</span> &nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
   <span style="font-size:15px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
@@ -83,8 +77,22 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, Oakland, October 2026. (<span style="color:red">CCF-A</span>)</span>
 
+- <span class="badge">NeurIPS'26</span> &nbsp;**VALOR: Vector-Aware Low-Rank Restructuring of Neural Networks for RISC-V Inference**
+
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Xiaoning Du, Bixin Li, Lulu Wang, Li Liao, Ying Zhou.</span>
+
+  <span style="font-size:15px;"> *The 40th Annual Conference on Neural Information Processing Systems*, Sydney, December 2026. (<span style="color:red">CCF-A</span>)</span>
+
 
 ## Journal
+
+- <span class="badge">SPE'23</span> &nbsp;**Feature transfer learning by reinforcement learning for detecting software defect**
+
+  <span style="font-size:15px;"> Shikai Guo, Jiahui Wang, <strong><em>Zhihao Xu</em></strong>, Lin Huang, Hui Li, Rong Chen.</span>
+
+  <span style="font-size:15px;"> In *Software: Practice and Experience*, 2023. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
+
+  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:u5HHmVD_uO8C" hidden></span>
 
 - <span class="badge">TODAES'25</span> &nbsp;**SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
 
@@ -106,14 +114,6 @@ redirect_from:
   💻[[code](https://github.com/cemery123/legohdl)]
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:qjMakFHDy7sC" hidden></span>
 
-- <span class="badge">SPE'23</span> &nbsp;**Feature transfer learning by reinforcement learning for detecting software defect**
-
-  <span style="font-size:15px;"> Shikai Guo, Jiahui Wang, <strong><em>Zhihao Xu</em></strong>, Lin Huang, Hui Li, Rong Chen.</span>
-
-  <span style="font-size:15px;"> In *Software: Practice and Experience*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
-
-  <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:u5HHmVD_uO8C" hidden></span>
-
 - <span class="badge">TCAD'25</span> &nbsp;**TRAGIC: Test Oracle Generation for ISA Compliance Testing via Large Language Model**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Xiaoning Du, Lulu Wang, Li Liao, Ying Zhou.</span>
@@ -126,7 +126,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Siwen Wang, Qian Ma, Hui Li, Furui Zhan.</span>
 
-  <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
+  <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2026. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:W7OEmFMy1HYC" hidden></span>
 
@@ -134,7 +134,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Ran Yan, Lulu Wang, Yongqiang Tian.</span>
 
-  <span style="font-size:15px;"> In *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
+  <span style="font-size:15px;"> In *ACM Transactions on Reconfigurable Technology and Systems*, 2026. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:zYLM7Y9cAGgC" hidden></span>
 
