@@ -11,9 +11,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📖 Zhihao Xu is a Ph.D. candidate of Computer Science in Southeast University(<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University(<a href='https://www.monash.edu/'>Monash</a>). His supervisors are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Dr. Xiaoning Du</a>. Before joining SEU and Monash, he received his Master degree of Computer Science in Dalian Maritime University(DLMU) co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof.Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof He Jiang</a>.
+📖 Zhihao Xu is a Ph.D. candidate in Computer Science at Southeast University (<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University (<a href='https://www.monash.edu/'>Monash</a>). His supervisors are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Dr. Xiaoning Du</a>. Before joining SEU and Monash, he received his master's degree in Computer Science from Dalian Maritime University (DLMU), co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof. Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof. He Jiang</a>.
 
-🔍 My research includes Software Engineering(SE), Electronic Design  Automation(EDA) and Open-Source System Instruction Set Architecture(RISC-V). I hope to explore how to use AI technology to improve the efficiency and accuracy of software testing, especially in embedded systems with limited hardware resources.
+🔍 My research interests include Software Engineering (SE), Electronic Design Automation (EDA), and the RISC-V instruction set architecture. I aim to explore how AI can improve the efficiency and accuracy of software testing, especially for embedded systems with limited hardware resources.
 
 📈 Google Scholar Citations: [**<span id="total_cit" aria-live="polite">—</span>**]({{ site.author.googlescholar }})
 
@@ -21,12 +21,12 @@ redirect_from:
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Our paper has been accepted by **NeurIPS'26**!
 - *2026.08*: &nbsp;🎉🎉 Our paper has been accepted by **TRETS**!
-- *2026.05*: &nbsp;🎉🎉 I was selected as gold reviewer for **ICML' 2026**. See you in Seoul!
+- *2026.05*: &nbsp;🎉🎉 I was selected as a gold reviewer for **ICML 2026**. See you in Seoul!
 - *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by **ICSME'26**! Congratulations to Yuxiao!
 - *2026.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
-- *2026.02*: &nbsp;🎉🎉 Two paper has been accepted by **DAC**! Congratulations to Jiaxin!
-- *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Dr. Du
-- *2025.05*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
+- *2026.02*: &nbsp;🎉🎉 Two papers have been accepted by **DAC'26**! Congratulations to Jiaxin!
+- *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisors, Prof. Li and Dr. Du!
+- *2025.05*: &nbsp;🎉🎉 I received **CSC** funding to support my Ph.D. studies in Australia!
 - *2025.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by **TODAES**!
 
@@ -38,13 +38,13 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Xiaoning Du, Bixin Li, Lulu Wang, Li Liao, Ying Zhou.</span>
 
-  <span style="font-size:15px;"> *The 40th Annual Conference on Neural Information Processing Systems*, 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 40th Annual Conference on Neural Information Processing Systems*, Sydney, December 2026. (<span style="color:red">CCF-A</span>)</span>
 
 - <span class="badge">FSE'22</span> &nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
   <span style="font-size:15px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
 
-  <span style="font-size:15px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, April 2022.(<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, November 2022. (<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
   💻[[code](https://github.com/cemery123/COMBAT)]
@@ -54,7 +54,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Hui Zeng, Qian Ma, Hui Li, Furui Zhan, Shikai Guo (*).</span>
 
-  <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 63rd ACM/IEEE Design Automation Conference*, Long Beach, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper]](docs/RL4HDL_camera_ready.pdf)
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:eQOLeE2rZwMC" hidden></span>
@@ -63,16 +63,16 @@ redirect_from:
 
   <span style="font-size:15px;"> Jiaxin Li, Shikai Guo\*, <strong><em>Zhihao Xu\*</em></strong>, Qian Ma, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> *The 63rd ACM/IEEE Chips to Systems Conference*, July 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 63rd ACM/IEEE Design Automation Conference*, Long Beach, July 2026. (<span style="color:red">CCF-A</span>)</span>
 
   📄[[paper]](docs/Are_They_All_Safe___camera_ready.pdf)
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:WF5omc3nYNoC" hidden></span>
 
 - <span class="badge">ICSME'26</span> &nbsp;**Detecting Error Diagnostic Defects in C Compiler via Invalid Program Mutations**
   
-  <span style="font-size:15px;"> Yuxiao Peng, Bixin Li\*, <strong><em>Zhihao Xu\*</em></strong>, Lulu Wang, Li Liao, Ying Zhou .</span>
+  <span style="font-size:15px;"> Yuxiao Peng, Bixin Li\*, <strong><em>Zhihao Xu\*</em></strong>, Lulu Wang, Li Liao, Ying Zhou.</span>
 
-  <span style="font-size:15px;"> *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Sep 2026. (<span style="color:blue">CCF-B</span>)</span>
+  <span style="font-size:15px;"> *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Benevento, September 2026. (<span style="color:blue">CCF-B</span>)</span>
 
   📄[[paper]](docs/EIDETIC_ICSME.pdf)
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:ufrVoPGSRksC" hidden></span>
@@ -81,7 +81,7 @@ redirect_from:
 
   <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> In *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, Oakland, October 2026. (<span style="color:red">CCF-A</span>)</span>
 
 
 ## Journal
@@ -124,13 +124,13 @@ redirect_from:
 
 - <span class="badge">TCAD'26</span> &nbsp;**Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers**
 
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Siwen Wang, Qian Ma, Hui Li, Furui Zhan</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Siwen Wang, Qian Ma, Hui Li, Furui Zhan.</span>
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:W7OEmFMy1HYC" hidden></span>
 
-- <span class="badge">TRETS'26</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
+- <span class="badge">TRETS'26</span> &nbsp;**Rethinking LLM-Aided RTL Code Optimization Via Timing Logic Metamorphosis**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Ran Yan, Lulu Wang, Yongqiang Tian.</span>
 
@@ -151,25 +151,25 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2022.10* COSCO SHIPPING Second Prize Scholarship in DLMU. 
 - *2024.09* First-class academic scholarship in SEU.
-- *2025.05* Chinese Scholarship Council full award in Monash.
+- *2025.05* China Scholarship Council scholarship for study at Monash University.
 
-# 📖 Educations
-- *2024.09 - Now*, Ph.D candidate, Southeast Uinversity, Nanjing. 
-- *2021.09 - 2024.06*, Postgraduate, Dalian Maritime University, Dalian.
+# 📖 Education
+- *2024.09 - Present*, Ph.D. candidate, Southeast University, Nanjing.
+- *2021.09 - 2024.06*, Master's student, Dalian Maritime University, Dalian.
 
 # 🧱 Utility Model Patents
 - S. Guo, Z. Xu, X. Li, and H. Jiang, “Simulation software testing method based on sleep zone mutation,”
   Utility Model Patent CN202310123179.9, Authorized, Feb. 20, 2025.
-- H. Li, X. Qi, Z. Xu, S. Guo, X. Li, and H. Jiang, “A method to improve jt defect prediction performance,”
+- H. Li, X. Qi, Z. Xu, S. Guo, X. Li, and H. Jiang, “A method to improve JIT defect prediction performance,”
   Utility Model Patent CN202310112490.3, Authorized, Jan. 10, 2025.
 - S. Guo and Z. Xu, “Simulation software testing method based on code generation,” Utility Model Patent
  CN202210946320.0, Substantive review completed, Nov. 3, 2022.
-- S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “A simulink detection method based on controllable base
+- S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “A Simulink detection method based on controllable base
   mutations,” Utility Model Patent CN202210348499.X, Substantive review completed, Sep. 15, 2022.
 - S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “Simulation software testing method based on hibernation
-  zone mutation,” Utility Model Patent CN202210983410.7, Granted on Oct.~15, 2024.
+  zone mutation,” Utility Model Patent CN202210983410.7, Granted on Oct. 15, 2024.
 
-# 🥇 Internships
+# 🔬 Research Projects
 - 2019 Yantai Science and Technology Project, *Host*
 - 2022 National Natural Science Foundation of China (No. 62472062), *Participant*
 - 2023 Dalian Excellent Young Project (No. 2022RY35), *Participant*
