@@ -122,6 +122,7 @@ redirect_from:
 
   <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
+  📄[[paper]](docs/TRAGIC_TCAD_2025.pdf)
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:YsMSGLbcyi4C" hidden></span>
 
 - <span class="badge">TCAD'26</span> &nbsp;**Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers**
@@ -138,6 +139,7 @@ redirect_from:
 
   <span style="font-size:15px;"> In *ACM Transactions on Reconfigurable Technology and Systems*, 2026. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
+  📄[[paper]](docs/Rethinking_LLM_Aided_RTL_TRETS_2026.pdf)
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:zYLM7Y9cAGgC" hidden></span>
 
 ## Under Review
