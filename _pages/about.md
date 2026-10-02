@@ -83,6 +83,8 @@ redirect_from:
 
   <span style="font-size:15px;"> *The 40th Annual Conference on Neural Information Processing Systems*, Sydney, December 2026. (<span style="color:red">CCF-A</span>)</span>
 
+  📄[[paper]](docs/VALOR_NeurIPS_2026.pdf)
+
 
 ## Journal
 
