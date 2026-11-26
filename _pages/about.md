@@ -20,7 +20,7 @@ redirect_from:
 
 # 🔥 News
 - *2026.11*: &nbsp;🎉🎉 I was invited to serve as a reviewer for **ICML 2027**!
-- *2026.11*: &nbsp;🎉🎉 Our paper has been accepted by **TACO**!
+- *2026.11*: &nbsp;🎉🎉 Our paper has been accepted by **TACO**! Congratulations to Xinlong!
 - *2026.09*: &nbsp;🎉🎉 Our paper has been accepted by **NeurIPS'26**!
 - *2026.08*: &nbsp;🎉🎉 Our paper has been accepted by **TRETS**!
 - *2026.05*: &nbsp;🎉🎉 I was selected as a gold reviewer for **ICML 2026**. See you in Seoul!
