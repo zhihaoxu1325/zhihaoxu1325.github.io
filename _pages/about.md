@@ -19,6 +19,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 I was invited to serve as a reviewer for **ICML 2027**!
+- *2026.11*: &nbsp;🎉🎉 Our paper has been accepted by **TACO**!
 - *2026.09*: &nbsp;🎉🎉 Our paper has been accepted by **NeurIPS'26**!
 - *2026.08*: &nbsp;🎉🎉 Our paper has been accepted by **TRETS**!
 - *2026.05*: &nbsp;🎉🎉 I was selected as a gold reviewer for **ICML 2026**. See you in Seoul!
@@ -142,13 +144,11 @@ redirect_from:
   📄[[paper]](docs/Rethinking_LLM_Aided_RTL_TRETS_2026.pdf)
   <span class="show_paper_citations" data-paper-id="PHxK32IAAAAJ:zYLM7Y9cAGgC" hidden></span>
 
-## Under Review
-
 - <span class="badge">TACO'26</span> &nbsp;**Differential Fuzz to Test Instruction Set Simulator Tools**
 
   <span style="font-size:15px;"> Xinlong Zhang, Shikai Guo\*, Zihan Liang, <strong><em>Zhihao Xu\*</em></strong>, Xiaochen Li, He Jiang.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Architecture and Code Optimization*, 2026. (<span style="color:red">CCF-A</span>)</span>
+  <span style="font-size:15px;"> Accepted for publication in *ACM Transactions on Architecture and Code Optimization*. (<span style="color:red">CCF-A</span>)</span>
 
 
 
